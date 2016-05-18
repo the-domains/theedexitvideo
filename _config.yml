@@ -1,0 +1,14 @@
+layout_spectrum: 0.5021482
+color:
+  saturation: 0.6750805
+  lightness: 0.801826
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#D12800'
+    - '#E27A51'
+    - '#989C9D'
+    - '#010000'
+  rhythmicContrast: 0.3936627
+typography_spectrum: 0.5515575
+name: TheEDexitVideo
