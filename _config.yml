@@ -21,8 +21,8 @@ color:
     - '#E27A51'
     - '#989C9D'
     - '#010000'
-  brandStrength: 0.25
+  brandStrength: 0
   lightness: 0.801826
-  saturation: 0.6750805
+  saturation: 0.625
   rhythmicContrast: 0.3936627
 purpose: []
