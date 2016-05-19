@@ -1,28 +1,40 @@
-name: TheEDexitVideo
-favicon: null
-layout_spectrum: 0.76305
-typography_spectrum: 0.5515575
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.7427498
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6750805
+  brandStrength: 1
+  lightness: 0.6503759
   brandColors:
     - '#FFFFFF'
     - '#D12800'
     - '#E27A51'
     - '#989C9D'
     - '#010000'
-  brandStrength: 0
-  lightness: 0.801826
-  saturation: 0.625
   rhythmicContrast: 0.3936627
-purpose: []
+typography_spectrum: 0.5515575
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: TheEDexitVideo
