@@ -1,14 +1,28 @@
-layout_spectrum: 0.5021482
+name: TheEDexitVideo
+favicon: null
+layout_spectrum: 0.76305
+typography_spectrum: 0.5515575
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6750805
-  lightness: 0.801826
-  brandStrength: 1
   brandColors:
     - '#FFFFFF'
     - '#D12800'
     - '#E27A51'
     - '#989C9D'
     - '#010000'
+  brandStrength: 1
+  lightness: 0.801826
+  saturation: 0.6750805
   rhythmicContrast: 0.3936627
-typography_spectrum: 0.5515575
-name: TheEDexitVideo
+purpose: []
